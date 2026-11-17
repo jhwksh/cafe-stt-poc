@@ -16,9 +16,9 @@
 
 ## 결과
 전체 8건 (medium): 03만 오인식
-![전체 결과](result_all.png)
+![전체 결과](result_all.png.png)
 
 03 천천히 다시 녹음: 맞음
-![03 재녹음 결과](result.png)
+![03 재녹음 결과](result.png.png)
 
 자세한 내용은 검증결과.md 참고.
